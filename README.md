@@ -24,4 +24,3 @@ Um jogo simples e divertido de adivinhação de números, desenvolvido com JavaS
 -   JavaScript
 
 ---
-*Feito por Danielly Adrean*
